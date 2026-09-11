@@ -1,0 +1,26 @@
+body {
+  background-color: #f4f6f9;
+  font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+  transition: transform 0.15s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.card-title {
+  font-weight: 700;
+}
+
+.btn {
+  border-radius: 8px;
+}
+
+header h1 {
+  color: #212529;
+}
